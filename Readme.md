@@ -26,7 +26,7 @@ We will look at two applications: hashing and integrity checking.
 Complex numbers are an extension of real numbers, and take the form a + ib where i, the imaginary number, satisfies i2 = -1.  
 Complex numbers have many exciting purely mathematical features. However, they also have wide practical uses in computer science, such as signal processing and noise reduction. We will discuss some of the uses.
 
-## Applications 4 - Eigenvalues and eigenvectors, Google PageRank algorithm
+## Assignment 4 - Eigenvalues and eigenvectors, Google PageRank algorithm
 Linear algebra deals with linear equations and with related mathematical problems. Linear algebra operates on matrices and vectors, representing coefficients and unknowns in linear expressions.  
 Square matrices have many interesting features, one of them is the existence of eigenvectors and eigenvalues. Despite pure mathematical uses, eigenvalues find many applications in computer science.  
 We will explore one of them, Google PageRank, the original algorithm behind Google's revolutionary search engine.  
