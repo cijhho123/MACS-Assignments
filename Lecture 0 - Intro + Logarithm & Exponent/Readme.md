@@ -1,1 +1,0 @@
-[Assignment](Lecture 0 - Intro + Logarithm & Exponent/MACS-Lec0-Intro.pdf)

@@ -10,6 +10,8 @@ The assignments were done in Google Colab and implemented in Python.
 
 
 # The assignments
+Each Folder contain PDF of the assignments, the ipynb (Jupyter notebook) Skeleton file, and the solution.
+
 ## Assignment 0 - Intro + Logarithm & Exponent
 * Introduction of course's resources and organization: website, Zoom, Google Colab, Python.  
 * Logarithm and exponent as mathematical functions, and their role in performing stable floating-point computations in computer science.
