@@ -10,7 +10,7 @@ The assignments were done in Google Colab and implemented in Python.
 
 
 # The assignments
-Each Folder contain PDF of the assignments, the ipynb (Jupyter notebook) Skeleton file, and the solution.
+Each Folder contains a PDF of the assignments, the .ipynb (Jupyter notebook) Skeleton file, and the solution.
 
 ## Assignment 0 - Intro + Logarithm & Exponent
 * Introduction of course's resources and organization: website, Zoom, Google Colab, Python.  
